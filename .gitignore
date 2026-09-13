@@ -1,0 +1,9 @@
+# Personal audio files and local inspection exports
+*.mp3
+*-metadata.json
+
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
