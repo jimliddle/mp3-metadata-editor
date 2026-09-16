@@ -4,8 +4,6 @@ A single-file, offline tool for inspecting and editing MP3 metadata in your brow
 
 **No installation, build step, server, account, or external dependencies.**
 
-https://jimliddle.github.io/mp3-metadata-editor/
-
 ## Get started
 
 1. Download this repository using **Code → Download ZIP**, then extract it. Alternatively, download [`mp3-metadata-inspector.html`](mp3-metadata-inspector.html) directly.
